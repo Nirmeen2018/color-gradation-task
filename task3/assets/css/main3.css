@@ -1,0 +1,13 @@
+.circle{
+   background-image: linear-gradient(to bottom, red,orange,yellow,green,blue,indigo,violet);
+    
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.parent{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
